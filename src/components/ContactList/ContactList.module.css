@@ -6,14 +6,15 @@
     font-size:16px;
     font-weight:bold;
     font-family:fantasy;
-    color:#aa00aa;
+    color:#b1ae11;
     text-decoration:underline;
 }
 .button {
     appearance: none;
   border: 0;
   border-radius: 5px;
-  background: #4676D7;
+  background: #9c2c97;
+  font-style: italic;
   color: #fff;
   padding: 8px 16px;
   font-size: 16px;
